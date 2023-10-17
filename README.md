@@ -1,11 +1,11 @@
 # Analysis-of-the-volume-of-seafood-products-marketed-from-marine-fishing-in-Morocco
 ## Overview
 
-This project aims to conduct an analysis of the factors that influence the volume of coastal and artisanal fishing products in Morocco using Principal Component Analysis (PCA) with the R and Python programming languages.
+This repository contains a data analysis project focused on analyzing Moroccan fish data. This project aims to conduct an analysis of the factors that influence the volume of coastal and artisanal fishing products in Morocco using Principal Component Analysis (PCA) with the R and Python programming languages.
 
 ## Data
 
-The data used in this analysis has been extracted from the [hcp.ma](https://www.hcp.ma/) website and includes information on coastal and artisanal fishing in Morocco. The raw data can be found in the `data/` folder of this repository.
+The data used in this analysis has been extracted from the [hcp.ma](https://www.hcp.ma/) website and includes information on coastal and artisanal fishing in Morocco. The raw data can be found in the `Dataset.xlsx` file of this repository.
 
 ## Objectives
 
@@ -26,21 +26,8 @@ Principal Component Analysis (PCA) will be used to reduce the dimensionality of 
 - `PCA.ipynb`: The Jupyter Notebook containing the Python script for PCA and data analysis.
 - `Project Report.pdf`: A PDF document summarizing the project's findings and conclusions.
 
-## How to Contribute
+## Used Technologies & Tools
 
-If you wish to contribute to this project or make improvements, feel free to clone this repository, make your modifications, and submit a pull request (PR).
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height=50/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" height=50>
 
-## Author
-
-- Your Name
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - please see the `LICENSE.md` file for more details.
-
----
-
-We look forward to collaborating on this analysis of factors influencing coastal and artisanal fishing in Morocco. If you have any questions, suggestions, or comments, please do not hesitate to share them.
-
-[Example link to your GitHub profile](https://github.com/your-profile)
 
