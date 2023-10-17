@@ -21,10 +21,10 @@ Principal Component Analysis (PCA) will be used to reduce the dimensionality of 
 
 ## Repository Structure
 
-- `data/`: This folder contains the raw data downloaded from hcp.ma.
-- `scripts/`: R and Python scripts used for PCA are available here.
-- `results/`: The results of the analysis will be stored in this folder.
-- `README.md`: You are here, the project's README file.
+- `Dataset.xlsx`: The raw dataset downloaded from hcp.ma, containing information on coastal and artisanal fishing in Morocco.
+- `PCA.R`: The R script used for Principal Component Analysis (PCA) to analyze the data.
+- `PCA.ipynb`: The Jupyter Notebook containing the Python script for PCA and data analysis.
+- `Project Report.pdf`: A PDF document summarizing the project's findings and conclusions.
 
 ## How to Contribute
 
