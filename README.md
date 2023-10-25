@@ -1,4 +1,4 @@
-# Analysis-of-the-volume-of-seafood-products-marketed-from-marine-fishing-in-Morocco
+# Analysis of the volume of seafood products marketed from marine fishing in Morocco
 ## Overview
 
 This repository contains a data analysis project focused on analyzing Moroccan fish data. This project aims to conduct an analysis of the factors that influence the volume of coastal and artisanal fishing products in Morocco using Principal Component Analysis (PCA) with the R and Python programming languages.
